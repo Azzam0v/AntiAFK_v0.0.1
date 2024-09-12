@@ -1,0 +1,4 @@
+#Temps d'AFK avant d'être téléporter, en minutes
+time: 20
+#Si cette valeur est true, le joueur sera kick du serveur, sinon le joueur sera téléporter au safe spawn du monde par défaut.
+AFKKick: true
